@@ -1,4 +1,3 @@
-# email_marketing_Analysis
 # Email Marketing Campaign Analysis (SQL)
 
 ## Objective
